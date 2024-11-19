@@ -1,0 +1,12 @@
+{
+  "name": "copilotworkspacestrial",
+  "version": "1.0.0",
+  "description": "A trial workspace for GitHub Copilot to explore its capabilities and features.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

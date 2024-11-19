@@ -8,6 +8,12 @@ This project is a trial workspace for GitHub Copilot. It aims to explore the cap
 2. Navigate to the project directory: `cd copilotworkspacestrial`
 3. Install the required dependencies: `npm install`
 
+## Opening a Workspace
+1. Open Visual Studio Code.
+2. Install the recommended extensions for Visual Studio Code.
+3. Open the project directory in Visual Studio Code.
+4. Open the workspace file in Visual Studio Code.
+
 ## Usage
 1. Open the project in your preferred code editor.
 2. Start coding and let GitHub Copilot assist you with code suggestions and completions.
