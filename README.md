@@ -18,6 +18,11 @@ This project is a trial workspace for GitHub Copilot. It aims to explore the cap
 1. Open the project in your preferred code editor.
 2. Start coding and let GitHub Copilot assist you with code suggestions and completions.
 
+## Testing the Website
+1. Start the server: `npm start`
+2. Open a web browser and navigate to `http://localhost:3000`
+3. You should see "Hello World" displayed on the page.
+
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 1. Fork the repository.
